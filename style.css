@@ -114,7 +114,7 @@ button:active,
 }
 
 .logo {
-    background-image: url(https://cdn.discordapp.com/attachments/901041345815252992/910501994114986004/828px-TBBT_logo.png);
+    background-image: url(TBBT_logo.svg.png);
     background-size: contain;
     background-repeat: no-repeat;
     list-style: none;
